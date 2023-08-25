@@ -13,7 +13,6 @@ This project is a Python implementation of the classic word-guessing game, Hangm
 Aim of the Project:
 The aim of this project is to demonstrate an understanding of Python programming concepts such as classes, functions, and loops to create an interactive game.
 
-What I learned:
 Through this project, I learned how to:
 Implement classes and methods in Python.
 Utilize control flow statements for game logic.
@@ -26,16 +25,13 @@ Installation Instructions
 Usage Instructions
 File Structure
 License
-Description
-What it does
-This project is a Python implementation of the classic word-guessing game, Hangman. The game allows a player to guess letters in a randomly chosen word within a limited number of attempts.
 
+Description
 Aim of the Project
 The aim of this project is to demonstrate an understanding of Python programming concepts such as classes, functions, and loops to create an interactive game.
 
 What I learned
 Through this project, I learned how to:
-
 Implement classes and methods in Python.
 Utilize control flow statements for game logic.
 Manage program state through class attributes.
