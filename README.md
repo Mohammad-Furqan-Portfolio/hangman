@@ -6,16 +6,15 @@ Usage Instructions
 File Structure
 License
 
-Description
-What it does
+Description:
+What it does:
 This project is a Python implementation of the classic word-guessing game, Hangman. The game allows a player to guess letters in a randomly chosen word within a limited number of attempts.
 
-Aim of the Project
+Aim of the Project:
 The aim of this project is to demonstrate an understanding of Python programming concepts such as classes, functions, and loops to create an interactive game.
 
-What I learned
+What I learned:
 Through this project, I learned how to:
-
 Implement classes and methods in Python.
 Utilize control flow statements for game logic.
 Manage program state through class attributes.
@@ -41,17 +40,7 @@ Implement classes and methods in Python.
 Utilize control flow statements for game logic.
 Manage program state through class attributes.
 Installation Instructions
-Clone this GitHub repository.
-bash
-Copy code
-git clone https://github.com/yourusername/hangman-game.git
-Navigate into the project directory.
-bash
-Copy code
-cd hangman-game
-Run the program.
-Copy code
-python milestone_5.py
+
 Usage Instructions
 Once you run the program, follow the on-screen instructions to guess letters in the randomly selected word. You will have 5 lives to guess the word correctly.
 
