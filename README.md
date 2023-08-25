@@ -20,9 +20,6 @@ Implement classes and methods in Python.
 Utilize control flow statements for game logic.
 Manage program state through class attributes.
 
-
-Certainly! A well-documented README can greatly enhance the quality and usability of your project. Below is a sample README template that includes all the sections you mentioned:
-
 Project Title: Hangman Game in Python
 Table of Contents
 Description
