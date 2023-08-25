@@ -35,7 +35,6 @@ Through this project, I learned how to:
 Implement classes and methods in Python.
 Utilize control flow statements for game logic.
 Manage program state through class attributes.
-Installation Instructions
 
 Installation Instructions
 Clone this GitHub repository.
@@ -43,8 +42,6 @@ Clone this GitHub repository.
 bash
 git clone https://github.com/Mohammad-Furqan-Portfolio/hangman-game.git
 Navigate into the project directory.
-
-bash
 cd hangman-game
 
 Run the program.
@@ -55,9 +52,13 @@ Once you run the program, follow the on-screen instructions to guess letters in 
 
 File Structure
 milestone_1.py - Initial setup of the Hangman class
+
 milestone_2.py - Added method to check user's guess
+
 milestone_3.py - Improved user input validation
+
 milestone_4.py - Integrated game logic
+
 milestone_5.py - Final version with complete game loop
 
 README.md - Documentation
