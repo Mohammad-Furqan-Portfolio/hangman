@@ -33,6 +33,7 @@ Once you run the program, follow the on-screen instructions to guess letters in 
 # File Structure
 
 hangman.py - Final version with complete game loop
+
 README.md - Documentation
 
 # Development Journey
