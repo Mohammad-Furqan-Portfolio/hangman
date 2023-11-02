@@ -1,48 +1,44 @@
-Project Title: Hangman Game in Python
-Table of Contents
-Description
-Installation Instructions
-Usage Instructions
-File Structure
-License
+# Project Title: Hangman Game in Python
+# Table of Contents
+- Description
+- Installation Instructions
+- Usage Instructions
+- File Structure
+- Development Journey
+- License
 
-Description
-Aim of the Project
+# Description
+# Aim of the Project
 The aim of this project is to demonstrate an understanding of Python programming concepts such as classes, functions, and loops to create an interactive game.
 
-What I learned
+# What I learned
 Through this project, I learned how to:
-Implement classes and methods in Python.
-Utilize control flow statements for game logic.
-Manage program state through class attributes.
+- Implement classes and methods in Python.
+- Utilize control flow statements for game logic.
+- Manage program state through class attributes.
 
-Installation Instructions
-Clone this GitHub repository.
+# Installation Instructions
+1. Clone this GitHub repository.
+`git clone https://github.com/Mohammad-Furqan-Portfolio/hangman-game.git`
 
-bash
-git clone https://github.com/Mohammad-Furqan-Portfolio/hangman-game.git
-Navigate into the project directory.
-cd hangman-game
+2. Navigate into the project directory.
+`cd hangman-game`
 
-Run the program.
-python milestone_5.py
+3. Run the program.
+`python hangman.py`
 
-Usage Instructions
+# Usage Instructions
 Once you run the program, follow the on-screen instructions to guess letters in the randomly selected word. You will have 5 lives to guess the word correctly.
 
-File Structure
-milestone_1.py - Initial setup of the Hangman class
+# File Structure
 
-milestone_2.py - Added method to check user's guess
-
-milestone_3.py - Improved user input validation
-
-milestone_4.py - Integrated game logic
-
-milestone_5.py - Final version with complete game loop
-
+hangman.py - Final version with complete game loop
 README.md - Documentation
 
-License
+# Development Journey
+- The project was initially developed in milestones, each focusing on specific functionalities.
+- Later, all milestones were combined into a single file (hangman.py) for simplicity and ease of use.
+ 
+# License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
